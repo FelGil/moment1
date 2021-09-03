@@ -1,9 +1,10 @@
 body {
-    background-color: darkmagenta;
+    background-color: darkgray;
     font-size: large;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h1 {
     color: white;
+    vertical-align: center;
 }
