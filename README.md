@@ -1,7 +1,7 @@
 # Moment1
 Detta är första uppgifter i denna kurs.
 
-## Vad gör vi i uppgiftern?
+## Vad gör vi i uppgiften?
 - Skapar ett GIT konto
 - Skapar ett repository
 - Publiserar kod via Visual Studio Code
