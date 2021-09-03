@@ -9,7 +9,7 @@ Detta är första uppgifter i denna kurs.
 
 # Klona
 För att klona detta repository använd detta kommando.
-git clone https://github.com/FelGil/moment1.git
+> git clone https://github.com/FelGil/moment1.git
 
 # Om
 Skapad av mig, Felicia.
